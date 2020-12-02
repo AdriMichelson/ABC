@@ -9,6 +9,7 @@ output:
 
 ```{r setup, include=FALSE}
 library(tidyverse)
+library(rsconnect)
 library(googlesheets4)
 library(flexdashboard)
 library(plotly)
